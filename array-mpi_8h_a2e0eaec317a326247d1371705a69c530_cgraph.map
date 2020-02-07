@@ -1,0 +1,8 @@
+<map id="exchangeArr" name="exchangeArr">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$brick-mpi_8h.html#a179784ded21f893300aff63e7d49dea4" title="Enumerate all neighbors." alt="" coords="148,5,239,32"/>
+<area shape="rect" id="node5" href="$array-mpi_8h.html#a021f5c9ecb2e1283f134ba4cb3777995" title=" " alt="" coords="158,56,229,83"/>
+<area shape="rect" id="node3" href="$structBitSet.html#a16777c7f003bbd964210fc95bec2d1a4" title="Flipping an element." alt="" coords="287,5,370,32"/>
+<area shape="rect" id="node4" href="$structBitSet.html#a46274b431928dfd890099035e52c371a" title="Turn number into corresponding element of set." alt="" coords="419,31,521,57"/>
+<area shape="rect" id="node6" href="$structBitSet.html#aac795d2dc9109ed7a5fb800a866256f4" title="Return whether a number is in the set." alt="" coords="287,56,371,83"/>
+</map>

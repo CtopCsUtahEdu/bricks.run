@@ -1,0 +1,6 @@
+<map id="include/dev_shl.h" name="include/dev_shl.h">
+<area shape="rect" id="node1" title="Implementation for various shuffle implementations." alt="" coords="181,5,304,32"/>
+<area shape="rect" id="node2" href="$brick-cuda_8h.html" title="For using bricks with CUDA." alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$brick-opencl_8h.html" title="Header necessary for OpenCL program/kernel to include." alt="" coords="169,80,317,107"/>
+<area shape="rect" id="node4" href="$brick-sycl_8h.html" title="Header necessary for SYCL program to include." alt="" coords="341,80,475,107"/>
+</map>

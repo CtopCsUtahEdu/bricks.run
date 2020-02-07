@@ -1,0 +1,5 @@
+<map id="pack_type" name="pack_type">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$structBitSet.html#aac795d2dc9109ed7a5fb800a866256f4" title="Return whether a number is in the set." alt="" coords="136,5,220,32"/>
+<area shape="rect" id="node3" href="$structBitSet.html#a46274b431928dfd890099035e52c371a" title="Turn number into corresponding element of set." alt="" coords="268,5,371,32"/>
+</map>

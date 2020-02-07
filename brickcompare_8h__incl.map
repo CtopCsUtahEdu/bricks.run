@@ -1,0 +1,15 @@
+<map id="include/brickcompare.h" name="include/brickcompare.h">
+<area shape="rect" id="node1" title="Compare content from bricks with arrays." alt="" coords="102,5,258,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,77,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,80,160,107"/>
+<area shape="rect" id="node4" href="$bricksetup_8h.html" title="Brick iterator and setup code." alt="" coords="184,80,277,107"/>
+<area shape="rect" id="node13" href="$cmpconst_8h.html" title="Tolerance for comparison." alt="" coords="301,80,392,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="7,155,65,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="90,155,158,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="182,155,279,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="304,155,379,181"/>
+<area shape="rect" id="node9" href="$brick_8h.html" title="Main header for bricks." alt="" coords="403,155,464,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="304,229,368,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="392,229,475,256"/>
+<area shape="rect" id="node12" href="$vecscatter_8h.html" title="Interface to code generator." alt="" coords="499,229,594,256"/>
+</map>

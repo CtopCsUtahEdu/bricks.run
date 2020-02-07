@@ -1,0 +1,4 @@
+<map id="BitSet::get" name="BitSet::get">
+<area shape="rect" id="node1" title="Return whether a number is in the set." alt="" coords="5,5,89,32"/>
+<area shape="rect" id="node2" href="$structBitSet.html#a46274b431928dfd890099035e52c371a" title="Turn number into corresponding element of set." alt="" coords="137,5,240,32"/>
+</map>

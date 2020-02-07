@@ -1,0 +1,7 @@
+<map id="backend.base.Backend.declare_vecbuf" name="backend.base.Backend.declare_vecbuf">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,209,115"/>
+<area shape="rect" id="node2" href="$classbackend_1_1avx2_1_1BackendAVX2.html#a55cf97fb780c4588fe683640d7e123dd" title=" " alt="" coords="271,5,537,32"/>
+<area shape="rect" id="node3" href="$classbackend_1_1avx512_1_1BackendAVX512.html#a96095fe46bf21b62cc9dbf844374439f" title=" " alt="" coords="257,56,551,83"/>
+<area shape="rect" id="node4" href="$classbackend_1_1base_1_1Backend.html#ae019c104fbbeffd44a46d4252164b892" title=" " alt="" coords="288,107,520,133"/>
+<area shape="rect" id="node5" href="$classbackend_1_1base_1_1Backend.html#a1ce531e8d4a2a3f5e1e504477ac98857" title=" " alt="" coords="284,157,524,184"/>
+</map>

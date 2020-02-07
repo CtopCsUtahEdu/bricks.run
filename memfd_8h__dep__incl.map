@@ -1,0 +1,7 @@
+<map id="include/memfd.h" name="include/memfd.h">
+<area shape="rect" id="node1" title="Helper data structure for memory file." alt="" coords="233,5,352,32"/>
+<area shape="rect" id="node2" href="$brick-mpi_8h.html" title="MPI stuff related to bricks." alt="" coords="177,80,307,107"/>
+<area shape="rect" id="node5" href="$memfd_8cpp.html" title=" " alt="" coords="309,155,418,181"/>
+<area shape="rect" id="node3" href="$array-mpi_8h.html" title="Reference MPI communication with arrays." alt="" coords="5,155,137,181"/>
+<area shape="rect" id="node4" href="$brick-mpi_8cpp.html" title=" " alt="" coords="162,155,285,181"/>
+</map>
